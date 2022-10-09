@@ -1,0 +1,30 @@
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	vertical-align: middle;
+}
+.image {
+	vertical-align: middle;
+}
+.left-block {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+}
+.middle-block {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+}
+.right-block {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+}
